@@ -1,3 +1,16 @@
 # Basic-React-App
 This is for beginner where you can add username and user Age and also validation .
+
+
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+Live Demo
+
 https://abhijeet2706.github.io/Basic-React-App/
